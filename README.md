@@ -38,3 +38,9 @@ Saya adalah **Mahasiswa Geofisika UGM angkatan 2024** yang tertarik untuk terus 
 ## 📫 Hubungi Saya
 - ✉️ Email: [fikrotulhidayah@mail.ugm.ac.id]  
 - 🌐 LinkedIn: [linkedin.com/in/Fikrotul Hidayah]
+
+<p align="center">
+  <img src="https://github.com/fikrotulhidayah-hue/CobaGit/blob/bf0d648b2c0310b127a7f2bb4e35f91ce8b54682/WhatsApp%20Image%202025-09-22%20at%2000.51.28_ae4c2fd9.jpg?raw=true" 
+       alt="Header" 
+       width="800"/>
+</p>
